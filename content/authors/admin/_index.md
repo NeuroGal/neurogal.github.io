@@ -23,16 +23,15 @@ role: Computational Neuroscience Graduate Student
 organizations:
   - name: Edmond and Lily Safra Center for Brain Sciences (ELSC)
     url: https://elsc.huji.ac.il/
-    # add labs here??
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO! Something here about my interests and research.
+bio: Aspiring Cognitive Computational Neuroscientist.
 
 # Interests to show in About widget
-interests:
-  - Cognitive Computational Neuroscience
-  - Subjective Experience
-  - TODO! 
+interests: # maybe change! the human mind? ccn? XXXXX
+  - Cognitive Neuroscience
+  - Computational Neuroscience
+  - Data Science
 
 # Education to show in About widget
 education:
@@ -88,29 +87,26 @@ skills:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
+social: # add more when relevant!
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/neuro_gal
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=U7grA2EAAAAJ&hl=iw&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/NeuroGal 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
+  - icon: cv  # add!!!
     icon_pack: ai
     link: uploads/resume.pdf
 
@@ -118,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am  an **aspiring Cognitive Computational Neuroscientist**. My interests include anything mind related, from everyday perception to rare strokes of genious. | I am especially eager to understand the computational principles underlying our subjective inner world (consciousness, there I said it!). In my work I hope to shed light on these perennial issues by combining large datasets of human electrophysiology with behavioral computational modelling. | I am currently finishing my PhD in Computational Neuroscience at the Edmond and Lily Safra Center for Brain Sciences (ELSC), under the supervision of [Prof. Leon Deouell](https://www.hcnl.org/) (main advisor) and [Prof. Ayelet Landau](https://www.landaulab.com/) (expected to graduate in the summer of 2024). I also hold a BSc in Abstract Mathematics (summa cum laude). | In my PhD I use large datasets of human electrophysiology to shed light on the nature of our ongoing visual experience (see [here](https://doi.org/10.1016/j.celrep.2023.112752) our recent intracranial study, and [here](https://github.com/NeuroGal/PersistentViewing_paper) all of the code for analysis and visualization I wrote for the occasion). I have experience with [behavioral modelling](https://doi.org/10.1038/s41467-021-25740-y) and I occasionally dabble in philosophy ([for example](https://link.springer.com/book/10.1007/978-3-030-99425-9)). | See my full CV here, and please reach out XX.
 {style="text-align: justify;"}
