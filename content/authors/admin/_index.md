@@ -114,6 +114,8 @@ social: # add more when relevant!
 highlight_name: true
 ---
 
+STILL EDITING! the text below is about me, the rest of the stuff is the template
+
 I am  an **aspiring Cognitive Computational Neuroscientist**. My interests include anything mind related, from everyday perception to rare strokes of genious.
 
 I am especially eager to understand the computational principles underlying our subjective inner world (consciousness, there I said it!). In my work I hope to shed light on these perennial issues by combining large datasets of human electrophysiology with behavioral computational modelling.
