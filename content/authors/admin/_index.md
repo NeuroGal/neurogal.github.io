@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Gal Vishne
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: '' # maybe use גל וישנה later
 
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+# Full name (for SEO) - search engines
+first_name: Gal
+last_name: Vishne
 
 # Status emoji
 status:
@@ -17,34 +17,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Computational Neuroscience Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Edmond and Lily Safra Center for Brain Sciences (ELSC)
+    url: https://elsc.huji.ac.il/
+    # add labs here??
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: TODO! Something here about my interests and research.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cognitive Computational Neuroscience
+  - Subjective Experience
+  - TODO! 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computational Neuroscience
+      institution: Hebrew University of Jerusalem (ELSC)
+      year: (expected) 2024
+    - course: BSc in Mathematics
+      institution: Bar-Ilan University
+      year: 2011
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
