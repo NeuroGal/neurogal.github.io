@@ -234,12 +234,12 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+    #  text: |-
+    #    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: gal.vishne@gmail.com
 #      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+#      appointment_url: 'https://calendly.com'
       address:
         street: Edmond J. Safra Campus, The Hebrew University
         city: Jerusalem
@@ -248,13 +248,13 @@ sections:
         country: Israel
         country_code: IL
       directions: The Suzanne and Charles Goodman Brain Sciences Building
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+#      office_hours:
+#        - 'Monday 10:00 to 13:00'
+#        - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '31.7712' 
+        longitude: '35.1975'   
       contact_links:
         - icon: twitter
           icon_pack: fab
