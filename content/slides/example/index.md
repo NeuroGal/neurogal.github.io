@@ -166,4 +166,4 @@ Create `assets/css/reveal_custom.css` with:
 
 [Ask](https://discord.gg/z8wNYzb)
 
-[Documentation](https://docs.hugoblox.com/content/slides/)
+[Documentation](ttps://docs.hugoblox.com/content/slidesh/)

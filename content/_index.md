@@ -183,6 +183,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    demo: true
     content:
       title: Gallery
       subtitle: ''
@@ -238,7 +239,7 @@ sections:
     #  text: |-
     #    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: gal.vishne@gmail.com
+      # email: gal.vishne@gmail.com
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
       address:
@@ -260,7 +261,7 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/neuro_gal'
 #        - icon: skype
 #          icon_pack: fab
 #          name: Skype Me
