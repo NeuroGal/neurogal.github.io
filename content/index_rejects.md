@@ -1,4 +1,3 @@
----
 # might be helpful in the future as examples so not deleting
 sections:
   - block: hero
@@ -122,4 +121,3 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
- ---
