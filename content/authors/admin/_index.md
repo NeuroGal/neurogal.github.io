@@ -122,6 +122,6 @@ I am currently finishing my PhD in Computational Neuroscience at the Edmond and 
 
 In my PhD I use large datasets of human electrophysiology to shed light on the nature of our ongoing visual experience (see [here](https://doi.org/10.1016/j.celrep.2023.112752) our recent intracranial study, and [here](https://github.com/NeuroGal/PersistentViewing_paper) all of the code for analysis and visualization I wrote for the occasion). I have experience with [behavioral modelling](https://doi.org/10.1038/s41467-021-25740-y) and I occasionally dabble in philosophy (for example, [here](https://link.springer.com/book/10.1007/978-3-030-99425-9)).
 
-See my [full CV here](static/uploads/cv.pdf), and [please reach out](#contact). 👋
+See my [full CV here](static/uploads/cv.pdf), and [please reach out](#contact).
 
 {style="text-align: justify;"}
