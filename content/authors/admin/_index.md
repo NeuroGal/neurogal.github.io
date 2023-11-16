@@ -108,13 +108,11 @@ social: # add more when relevant!
   # and uncomment the lines below.
   - icon: cv  # add!!!
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-STILL EDITING! the text below is about me, the rest of the stuff is the template
 
 I am  an **aspiring Cognitive Computational Neuroscientist**. My interests include anything mind related, from everyday perception to rare strokes of genious.
 
@@ -122,8 +120,8 @@ I am especially eager to understand the computational principles underlying our 
 
 I am currently finishing my PhD in Computational Neuroscience at the Edmond and Lily Safra Center for Brain Sciences (ELSC), under the supervision of [Prof. Leon Deouell](https://www.hcnl.org/) (main advisor) and [Prof. Ayelet Landau](https://www.landaulab.com/) (expected to graduate in the summer of 2024). I also hold a BSc in Abstract Mathematics (summa cum laude).
 
-In my PhD I use large datasets of human electrophysiology to shed light on the nature of our ongoing visual experience (see [here](https://doi.org/10.1016/j.celrep.2023.112752) our recent intracranial study, and [here](https://github.com/NeuroGal/PersistentViewing_paper) all of the code for analysis and visualization I wrote for the occasion). I have experience with [behavioral modelling](https://doi.org/10.1038/s41467-021-25740-y) and I occasionally dabble in philosophy ([for example](https://link.springer.com/book/10.1007/978-3-030-99425-9)).
+In my PhD I use large datasets of human electrophysiology to shed light on the nature of our ongoing visual experience (see [here](https://doi.org/10.1016/j.celrep.2023.112752) our recent intracranial study, and [here](https://github.com/NeuroGal/PersistentViewing_paper) all of the code for analysis and visualization I wrote for the occasion). I have experience with [behavioral modelling](https://doi.org/10.1038/s41467-021-25740-y) and I occasionally dabble in philosophy (for example, [here](https://link.springer.com/book/10.1007/978-3-030-99425-9)).
 
-See my full CV here, and please reach out XX.
+See my {{% staticref "uploads/cv.pdf" "newtab" %}}full CV here{{% /staticref %}}, and [please reach out](#contact).
 
 {style="text-align: justify;"}
