@@ -51,6 +51,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    demo: true
     content:
       title: Experience
       # Date format for experience
