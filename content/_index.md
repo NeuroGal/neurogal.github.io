@@ -273,10 +273,10 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
+      form: # "mailto:your-email@example.com"
+        provider: formspree
+        formspree: 
+          id: xjvqdozo
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
