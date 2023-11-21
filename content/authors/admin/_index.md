@@ -102,7 +102,7 @@ social: # add more when relevant!
     link: https://scholar.google.com/citations?user=U7grA2EAAAAJ&hl=iw&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/NeuroGal 
+    link: https://github.com/NeuroGal
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -113,6 +113,8 @@ social: # add more when relevant!
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+*The page is still under construction*
 
 I am  an **aspiring Cognitive Computational Neuroscientist**. My interests include anything mind related, from everyday perception to rare strokes of genious.
 
