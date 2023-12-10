@@ -37,7 +37,7 @@ sections:
             
             + England (Wales) - Spoke at the Gatsby Tri-center Computational Neuroscience Annual Meeting in Gladstone's Library @ Hawarden, Wales
             
-        + For earlier activity see [my CV](uploads/resume.pdf)
+        + For earlier activities see [my CV](uploads/resume.pdf)
     design:
       columns: '2'
   - block: collection
