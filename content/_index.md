@@ -38,7 +38,7 @@ sections:
       title: Publications # change to 'Recent Publications' ?
       text: |-
         {{% callout note %}}
-        [Filter publications](./publication/).
+        [Filter publications](./publication/)
         {{% /callout %}}
       filters:
         folders:
