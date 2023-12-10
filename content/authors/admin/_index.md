@@ -28,10 +28,11 @@ organizations:
 bio: Aspiring Cognitive Computational Neuroscientist.
 
 # Interests to show in About widget
-interests: # maybe change! the human mind? ccn? XXXXX
+interests: # make more specific?
   - Cognitive Neuroscience
   - Computational Neuroscience
   - Data Science
+  - Philosophy
 
 # Education to show in About widget
 education:
@@ -115,9 +116,9 @@ social: # add more when relevant!
 highlight_name: true
 ---
 
-I am  an **aspiring Cognitive Computational Neuroscientist**. My interests include anything mind related, from everyday perception to rare strokes of genius.
+I am  an **aspiring Cognitive Computational Neuroscientist**.
 
-I am especially eager to understand the computational principles underlying our subjective inner world (consciousness, there I said it!). In my work I hope to shed light on these perennial issues by combining large datasets of human electrophysiology with behavioral computational modelling.
+My interests include anything mind related, from everyday perception to rare strokes of genius, and I am especially eager to understand the computational principles underlying our subjective inner world (consciousness, there I said it!). In my current work I hope to shed light on these perennial questions by combining large datasets of human electrophysiology with behavioral computational modelling.
 
 I am currently finishing my PhD in Computational Neuroscience at the Edmond and Lily Safra Center for Brain Sciences (ELSC), under the supervision of [Prof. Leon Deouell](https://www.hcnl.org/) (main advisor) and [Prof. Ayelet Landau](https://www.landaulab.com/) (set to graduate during the summer\fall of 2024). I also hold a BSc in Abstract Mathematics (summa cum laude).
 
