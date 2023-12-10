@@ -8,7 +8,7 @@ authors:
 date: '2022-01-01'
 publishDate: '2023-12-10T20:02:12.434382Z'
 publication_types:
-- edited book
+- book-edited
 publication: '*Springer International Publishing*'
 doi: 10.1007/978-3-030-99425-9
 links:
