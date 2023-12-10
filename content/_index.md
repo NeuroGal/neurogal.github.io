@@ -8,23 +8,21 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      title: About me
+      username: admin       # Choose a user profile to display (a folder name within `content/authors/`)
   - block: skills
     content:
       title: Skills
       text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
+      username: admin       # Choose a user to display skills from (a folder name within `content/authors/`)
     design:
       columns: '1'
   - block: collection # need to write some...
     id: posts
     content:
-      title: Recent Posts
+      title: Posts
       subtitle: ''
-      text: ''
+      text: '_To be added_'
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
