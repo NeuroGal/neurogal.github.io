@@ -103,15 +103,9 @@ social: # add more when relevant!
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=U7grA2EAAAAJ&hl=iw&oi=ao
-    label: Google Scholar
-#    display:
-#      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/NeuroGal
-    label: Github
-#    display:
-#      header: true
   - icon: cv  # updatee
     icon_pack: ai
     link: uploads/resume.pdf #  enable `ai` icons in `params.yaml`,
