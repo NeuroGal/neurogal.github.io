@@ -91,6 +91,9 @@ social: # add more when relevant!
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+    label: Email me
+    display:
+      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/neuro_gal
@@ -116,11 +119,11 @@ highlight_name: true
 
 *The page is still under construction*
 
-I am  an **aspiring Cognitive Computational Neuroscientist**. My interests include anything mind related, from everyday perception to rare strokes of genious.
+I am  an **aspiring Cognitive Computational Neuroscientist**. My interests include anything mind related, from everyday perception to rare strokes of genius.
 
 I am especially eager to understand the computational principles underlying our subjective inner world (consciousness, there I said it!). In my work I hope to shed light on these perennial issues by combining large datasets of human electrophysiology with behavioral computational modelling.
 
-I am currently finishing my PhD in Computational Neuroscience at the Edmond and Lily Safra Center for Brain Sciences (ELSC), under the supervision of [Prof. Leon Deouell](https://www.hcnl.org/) (main advisor) and [Prof. Ayelet Landau](https://www.landaulab.com/) (expected to graduate in the summer of 2024). I also hold a BSc in Abstract Mathematics (summa cum laude).
+I am currently finishing my PhD in Computational Neuroscience at the Edmond and Lily Safra Center for Brain Sciences (ELSC), under the supervision of [Prof. Leon Deouell](https://www.hcnl.org/) (main advisor) and [Prof. Ayelet Landau](https://www.landaulab.com/) (set to graduate during the summer\fall of 2024). I also hold a BSc in Abstract Mathematics (summa cum laude).
 
 In my PhD I use large datasets of human electrophysiology to shed light on the nature of our ongoing visual experience (see [here](https://doi.org/10.1016/j.celrep.2023.112752) our recent intracranial study, and [here](https://github.com/NeuroGal/PersistentViewing_paper) all of the code for analysis and visualization I wrote for the occasion). I have experience with [behavioral modelling](https://doi.org/10.1038/s41467-021-25740-y) and I occasionally dabble in philosophy (for example, [here](https://link.springer.com/book/10.1007/978-3-030-99425-9)).
 
