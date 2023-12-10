@@ -39,6 +39,8 @@ sections:
     design:
       columns: '2'
       view: compact
+
+      #############
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
