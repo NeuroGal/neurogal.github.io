@@ -14,32 +14,20 @@ sections:
     id: recent
     content:
       title: Recent Activity
-      text:  " z
-
-        + Dec 2023:
-
-            + My first podcast is out! 🎧 [Click here](https://www.youtube.com/watch?v=Tx4t_Ct6g_E&t=1s) to check out my conversation with Dr. Randen Patterson in [Honest Discussions] (https://twitter.com/HonestDiscuss)
-
+      text:  |+
+      xx
+        "+ Dec 2023:
+            + My episode in the [Honest Discussions](https://twitter.com/HonestDiscuss) podcast is out! 🎧 [Click here](https://www.youtube.com/watch?v=Tx4t_Ct6g_E&t=1s) to check it out
         + Nov 2023:
-
             + Virtual conference talk - 1st Conference of the [International Society for the Philosophy of the Sciences of the Mind (ISPSM 2023)](https://www.ispsmind.com/international-conference/)
-
             + Visit to [Michael Herzog's Psychophysics Lab](https://www.epfl.ch/labs/lpsy/) in EPFL Laussanne & speaking at the Vision and Consciousness Seminar
-
         + July 2023:
-
             + **Paper out in Cell Reports!** (see the [featured paper](#featured)) 🥳
-
             + Local philosophy speaking tour with Dr. Ori Hacohen presenting our joint project on pragmatic theories of neural representation (Israeli Society for the History, Philosophy and Sociology of Science, Israeli Philosophical Association, [IIAS workshop on The Indeterminacy of Computation](https://iias.huji.ac.il/event/indeterminacy-computation-research-group-reunion-conference))
-
         + June 2023: world tour ✈️
-
             + New York - visited Prof. Biyu He's [Perception and Brain Dynamics Lab](https://med.nyu.edu/helab/) at NYU and presented at the [annual meeting of the Association for the Scientific Study of Consciousness (ASSC)](https://theassc.org/assc-26/)
-
             + England (Wales) - Spoke at the Gatsby Tri-center Computational Neuroscience Annual Meeting in Gladstone's Library @ Hawarden, Wales
-
-        + For earlier activities see [my CV](uploads/resume.pdf)  
-        "
+        + For earlier activities see [my CV](uploads/resume.pdf)"
 
     design:
       columns: '2'
