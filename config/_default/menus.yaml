@@ -11,7 +11,7 @@ main:
     url: '#recent'
     weight: 20
   - name: Publications
-    url: '#publication' # 'featured?'
+    url: '#pub' # 'featured?'
     weight: 30
 #  - name: Posts
 #    url: '#posts'

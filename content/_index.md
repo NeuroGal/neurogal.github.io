@@ -34,7 +34,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: publication
+    id: pub
     content:
       title: Publications # change to 'Recent Publications' ?
       text: |-
