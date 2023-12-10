@@ -1,6 +1,5 @@
 ---
-title: 'Levels of Reality in Science and Philosophy: Re-examining the Multi-level
-  Structure of Reality'
+title: 'Levels of Reality in Science and Philosophy: Re-examining the Multi-level Structure of Reality'
 authors:
 - Stavros Ioannidis
 - Gal Vishne

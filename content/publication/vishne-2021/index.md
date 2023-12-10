@@ -7,6 +7,9 @@ authors:
 - Tamir Epstein
 - Or Frenkel
 - Merav Ahissar
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2021-09-01'
 publishDate: '2023-12-10T20:02:12.426954Z'
 publication_types:
