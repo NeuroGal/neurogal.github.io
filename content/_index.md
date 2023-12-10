@@ -15,7 +15,6 @@ sections:
     content:
       title: Recent Activity
       text:  |+
-      xx
         "+ Dec 2023:
             + My episode in the [Honest Discussions](https://twitter.com/HonestDiscuss) podcast is out! 🎧 [Click here](https://www.youtube.com/watch?v=Tx4t_Ct6g_E&t=1s) to check it out
         + Nov 2023:
