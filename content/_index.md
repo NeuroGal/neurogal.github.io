@@ -21,7 +21,7 @@ sections:
     id: recent
     content:
       title: Recent Activity
-      text: - Thing 1 testing
+      text: '- Thing 1 testing'
   - block: collection # need to write some...
     id: posts
     content:
