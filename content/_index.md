@@ -18,7 +18,7 @@ sections:
       '- Dec 2023:
         - My first podcast is out! 🎧 [Click here](https://www.youtube.com/watch?v=Tx4t_Ct6g_E&t=1s) to check out my conversation with Dr. Randen Patterson in [Honest Discussions] (https://twitter.com/HonestDiscuss): 
       - Nov 2023:
-        - Spoke at ...International Society for the Philosophy of the Sciences of the Mind (ISPSM 2023). 
+        - Virtual conference: Spoke at the 1st Conference of the [International Society for the Philosophy of the Sciences of the Mind (ISPSM 2023)](https://www.ispsmind.com/international-conference/)
         - Visit to [Michael Herzog's Psychophysics Lab](https://www.epfl.ch/labs/lpsy/) in EPFL Laussanne & speaking at the Vision and Consciousness Seminar
       - July 2023:
         - **Paper out in Cell Reports!** (see the [featured paper](#featured)) 🥳
