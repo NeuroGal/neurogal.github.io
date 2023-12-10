@@ -14,9 +14,9 @@ sections:
     id: recent
     content:
       title: Recent Activity
-      text: 
+      text:  x
 
-        + Dec 2023:\\
+        + Dec 2023\\:\\
 
             + My first podcast is out! 🎧 [Click here](https://www.youtube.com/watch?v=Tx4t_Ct6g_E&t=1s) to check out my conversation with Dr. Randen Patterson in [Honest Discussions] (https://twitter.com/HonestDiscuss)
 
