@@ -15,10 +15,12 @@ sections:
     content:
       title: Recent Activity
       text:
+      ---
       - Testing 1
       - Testing 2
       - Testing 3
-      #- For earlier activity see [my CV](uploads/resume.pdf)
+      - For earlier activity see [my CV](uploads/resume.pdf)
+      ---
     design:
       columns: '2'
   - block: collection
