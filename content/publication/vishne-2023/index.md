@@ -1,5 +1,5 @@
 ---
-title: Distinct ventral stream and prefrontal cortex representational dynamics during sustained conscious visual perception.
+title: Distinct ventral stream and prefrontal cortex representational dynamics during sustained conscious visual perception
 authors:
 - Gal Vishne
 - Edden M Gerber
