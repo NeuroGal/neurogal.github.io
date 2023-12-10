@@ -17,14 +17,19 @@ sections:
       username: admin       # Choose a user to display skills from (a folder name within `content/authors/`)
     design:
       columns: '1'
+  - block: markdown # or use list? check https://docs.hugoblox.com/getting-started/page-builder/
+    id: recent
+    content:
+      title: Recent Activity
+      text: * Thing 1
+      * Thing 2
   - block: collection # need to write some...
     id: posts
     content:
       title: Posts
       subtitle: ''
       text: '_To be added_'
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 5       # Choose how many pages you would like to display (0 = all pages)
       # Filter on criteria
       filters:
         folders:
