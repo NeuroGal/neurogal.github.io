@@ -14,8 +14,7 @@ sections:
     id: recent
     content:
       title: Recent Activity
-      text: |-
-      "- Dec 2023:
+      text: "- Dec 2023:
         - My first podcast is out! 🎧 [Click here](https://www.youtube.com/watch?v=Tx4t_Ct6g_E&t=1s) to check out my conversation with Dr. Randen Patterson in [Honest Discussions] (https://twitter.com/HonestDiscuss): 
       - Nov 2023:
         - Virtual conference: Spoke at the 1st Conference of the [International Society for the Philosophy of the Sciences of the Mind (ISPSM 2023)](https://www.ispsmind.com/international-conference/)
