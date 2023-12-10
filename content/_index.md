@@ -16,12 +16,14 @@ sections:
       text: ''
       username: admin       # Choose a user to display skills from (a folder name within `content/authors/`)
     design:
-      columns: '1'
+      columns: '2'
   - block: markdown # or use list? check https://docs.hugoblox.com/getting-started/page-builder/
     id: recent
     content:
       title: Recent Activity
       text: '- Thing 1 testing'
+    design:
+      columns: '2'
   - block: collection
     id: featured
     content:
