@@ -19,7 +19,7 @@ sections:
           + My episode in the [Honest Discussions](https://twitter.com/HonestDiscuss) podcast is out! Check it out [here](https://www.youtube.com/watch?v=Tx4t_Ct6g_E&t=1s) 🎧
         + Nov 2023:
             + Virtual conference talk - 1st Conference of the [International Society for the Philosophy of the Sciences of the Mind (ISPSM 2023)](https://www.ispsmind.com/international-conference/) 🖥️ 
-            + Visit to [Michael Herzog's Psychophysics Lab](https://www.epfl.ch/labs/lpsy/) in EPFL Laussanne & speaking at the Vision and Consciousness Seminar ✈️ 
+            + Visit to [Michael Herzog's Psychophysics Lab](https://www.epfl.ch/labs/lpsy/) in EPFL Laussanne & speaking at the Vision & Cognition Seminar ✈️ 
         + July 2023:
             + **Paper out in Cell Reports!** (see the [featured paper](#featured)) 🥳🎆
             + Philosophy talks round with Dr. Ori Hacohen presenting our joint work on pragmatic theories of neural representation (several local conference talks, including at the [IIAS workshop on The Indeterminacy of Computation](https://iias.huji.ac.il/event/indeterminacy-computation-research-group-reunion-conference))
