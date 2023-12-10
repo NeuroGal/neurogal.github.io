@@ -29,6 +29,9 @@ bio: Aspiring Cognitive Computational Neuroscientist.
 
 # Interests to show in About widget
 interests: # make more specific?
+#   - Subjective experience
+#   - Large datasets
+#   - Computational modelling
   - Cognitive Neuroscience
   - Computational Neuroscience
   - Data Science
