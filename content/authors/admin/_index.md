@@ -111,7 +111,7 @@ social: # add more when relevant!
   # and uncomment the lines below.
   - icon: cv  # add!!!
     icon_pack: ai
-    link: uploads/cv.pdf
+    link: static/uploads/cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
