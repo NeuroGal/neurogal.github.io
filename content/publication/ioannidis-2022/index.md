@@ -14,4 +14,6 @@ doi: 10.1007/978-3-030-99425-9
 links:
 - name: URL
   url: https://link.springer.com/10.1007/978-3-030-99425-9
+tags:
+- Philosophy
 ---

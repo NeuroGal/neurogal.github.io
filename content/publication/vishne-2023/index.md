@@ -16,4 +16,8 @@ links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S2211124723007635
 featured: true
+tags:
+- Consciousness
+- Intracranial Recordings (iEEG, ECoG)
+- Vision
 ---

@@ -20,4 +20,8 @@ abstract: Autism is a neurodevelopmental disorder characterized by impaired soci
 links:
 - name: URL
   url: http://dx.doi.org/10.1038/s41467-021-25740-y
+tags:
+- Autism
+- Sensorimotor synchronization
+- Computational modelling
 ---

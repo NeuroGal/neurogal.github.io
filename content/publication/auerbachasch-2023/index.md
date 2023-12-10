@@ -15,4 +15,8 @@ abstract: Object processing is fundamental to visual perception, and understandi
 links:
 - name: URL
   url: http://biorxiv.org/lookup/doi/10.1101/2023.06.28.546397
+tags:
+- Eye-movements
+- EEG
+- Vision
 ---
