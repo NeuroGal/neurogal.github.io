@@ -1,5 +1,12 @@
 # might be helpful in the future as examples so not deleting
 sections:
+   - block: skills
+    content:
+      title: Skills
+      text: ''
+      username: admin       # Choose a user to display skills from (a folder name within `content/authors/`)
+    design:
+      columns: '2'
  - block: collection # need to write some...
     id: posts
     content:

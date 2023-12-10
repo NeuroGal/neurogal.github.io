@@ -10,13 +10,6 @@ sections:
     content:
       title: About me
       username: admin       # Choose a user profile to display (a folder name within `content/authors/`)
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      username: admin       # Choose a user to display skills from (a folder name within `content/authors/`)
-    design:
-      columns: '2'
   - block: markdown # or use list? check https://docs.hugoblox.com/getting-started/page-builder/
     id: recent
     content:
