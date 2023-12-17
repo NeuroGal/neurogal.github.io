@@ -4,7 +4,10 @@ title: ''
 date: 2022-10-24
 type: landing
 lastmod:
+  - :git
+  - lastmod
   - date
+  - publishDate
 
 sections:
   - block: about.biography
