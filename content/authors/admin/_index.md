@@ -71,7 +71,7 @@ social: # add more when relevant!
     icon_pack: fab
     link: https://github.com/NeuroGal
   - icon: orcid
-    icon_pack: hb
+    icon_pack: fab
     link: https://orcid.org/0000-0001-7906-2543
   - icon: cv  # updatee
     icon_pack: ai
