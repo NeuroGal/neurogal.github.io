@@ -70,6 +70,9 @@ social: # add more when relevant!
   - icon: github
     icon_pack: fab
     link: https://github.com/NeuroGal
+  - icon: orcid
+    icon_pack: hugo
+    link: https://orcid.org/0000-0001-7906-2543
   - icon: cv  # updatee
     icon_pack: ai
     link: uploads/resume.pdf #  enable `ai` icons in `params.yaml`,
