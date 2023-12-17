@@ -3,7 +3,8 @@
 title: ''
 date: 2022-10-24
 type: landing
-lastmod: "2023-12-17"
+lastmod:
+  - date
 
 sections:
   - block: about.biography
