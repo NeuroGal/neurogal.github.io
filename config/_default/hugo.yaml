@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Gal Vishne # Website name
-baseURL: 'https://gal.vishne.com/' # Website URL
+baseURL: 'https://neurogal.github.io/' #'https://gal.vishne.com/' # Website URL
 
 ############################
 ## LANGUAGE
