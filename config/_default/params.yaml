@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'Gal Vishne's website.'
+    org_name: 'Hebrew University of Jerusalem'
+    description: "Gal Vishne's website."
     twitter: 'neuro_gal'
   analytics:
     google_analytics: ''
