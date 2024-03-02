@@ -20,6 +20,8 @@ sections:
     content:
       title: Recent Activity
       text:  |+
+        + Feb 2024:
+          + Recieved the prestigious [Rothschild Postdoctoral Fellowship](https://www.yadhanadiv.org.il/rothschild-fellows) 😀
         + Dec 2023:
           + My episode in the [Honest Discussions](https://twitter.com/HonestDiscuss) podcast is out! Check it out [here](https://www.youtube.com/watch?v=Tx4t_Ct6g_E&t=1s) 🎧
         + Nov 2023:
