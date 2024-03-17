@@ -3,7 +3,10 @@ title: 'Neural Representations Without Original Content: The Case from Content M
 authors:
 - Ori Hacohen
 - Gal Vishne
-date: ''
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+date: '2024-01-01'
 publishDate: ''
 publication_types: ["article"]
 publication: ''
