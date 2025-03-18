@@ -62,6 +62,8 @@ social: # add more when relevant!
     icon_pack: fab
     link: https://bsky.app/profile/neurogal.bsky.social
     label: Bluesky
+    display:
+      header: true
   - icon: x-twitter
     icon_pack: fab
     link: https://x.com/neuro_gal #https://twitter.com/neuro_gal
