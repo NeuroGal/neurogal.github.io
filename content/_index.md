@@ -90,21 +90,17 @@ sections:
 #        - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '40.818826' 
-        longitude: '-73.959964'   
+        latitude: '40.81692' 
+        longitude: '-73.95793'   
       contact_links:
         - icon: bluesky
-          icon_pack: fab
+          icon_pack: fas
           name: DM on bluesky
           link: 'https://bsky.app/profile/neurogal.bsky.social'
-        - icon: twitter
-          icon_pack: fab
-          name: DM on x\twitter
+        - icon: x-twitter
+          icon_pack: fas
+          name: DM on X\Twitter
           link: 'https://twitter.com/neuro_gal'
-        # - icon: twitter
-        #   icon_pack: fab
-        #   name: DM Me
-        #   link: 'https://twitter.com/neuro_gal'
       autolink: true       # Automatically link email and phone or display as text?
       form: # "mailto:your-email@example.com"       # Email form provider
         provider: formspree

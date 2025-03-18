@@ -58,10 +58,14 @@ social: # add more when relevant!
     label: Email me
     display:
       header: true
-  - icon: twitter
-    icon_pack: fab
+  - icon: bluesky
+    icon_pack: fas
+    link: 'https://bsky.app/profile/neurogal.bsky.social'
+    label: Follow me on Bluesky
+  - icon: x-twitter
+    icon_pack: fas
     link: https://twitter.com/neuro_gal
-    label: Follow me on Twitter
+    label: Follow me on X\Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
