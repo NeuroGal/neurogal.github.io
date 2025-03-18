@@ -92,11 +92,11 @@ sections:
         longitude: '-73.95793'   
       contact_links:
         - icon: bluesky
-          icon_pack: fas
+          icon_pack: fab
           name: DM on bluesky
           link: 'https://bsky.app/profile/neurogal.bsky.social'
         - icon: x-twitter
-          icon_pack: fas
+          icon_pack: fab
           name: DM on X\Twitter
           link: 'https://twitter.com/neuro_gal'
       autolink: true       # Automatically link email and phone or display as text?

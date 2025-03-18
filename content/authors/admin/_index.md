@@ -59,11 +59,11 @@ social: # add more when relevant!
     display:
       header: true
   - icon: bluesky
-    icon_pack: fas
+    icon_pack: fab
     link: 'https://bsky.app/profile/neurogal.bsky.social'
     label: Follow me on Bluesky
   - icon: x-twitter
-    icon_pack: fas
+    icon_pack: fab
     link: https://twitter.com/neuro_gal
     label: Follow me on X\Twitter
     display:
