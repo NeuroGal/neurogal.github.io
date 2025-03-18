@@ -74,25 +74,33 @@ sections:
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
       address:
-        street: Edmond J. Safra Campus, The Hebrew University
-        city: Jerusalem
-       # region: CA
-        postcode: '9190401'
-        country: Israel
-        country_code: IL
-      directions: The Suzanne and Charles Goodman Brain Sciences Building
+        street: 3227 Broadway, Zuckerman Mind Brain Behavior Institute, Columbia University
+        city: New York
+        region: NY
+        postcode: '10027'
+        country: USA
+        country_code: US
+      directions: Jerome L. Greene Science Center
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '31.7713' 
-        longitude: '35.19663'   
+        latitude: '40.818826' 
+        longitude: '-73.959964'   
       contact_links:
-        - icon: twitter
+        - icon: bluesky
+          icon_pack: fas
+          name: DM on bluesky
+          link: 'https://bsky.app/profile/neurogal.bsky.social'
+        - icon: x-twitter
           icon_pack: fab
-          name: DM Me
+          name: DM on x\twitter
           link: 'https://twitter.com/neuro_gal'
+        # - icon: twitter
+        #   icon_pack: fab
+        #   name: DM Me
+        #   link: 'https://twitter.com/neuro_gal'
       autolink: true       # Automatically link email and phone or display as text?
       form: # "mailto:your-email@example.com"       # Email form provider
         provider: formspree
