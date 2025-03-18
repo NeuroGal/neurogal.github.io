@@ -38,7 +38,6 @@ jobs:
           extended: true
       - uses: actions/cache@v4
         with:
-          overwrite: true
           path: /tmp/hugo_cache_runner/
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
           restore-keys: |
@@ -46,8 +45,6 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
-        with:
-          overwrite: true
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
@@ -57,7 +54,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          overwrite: true
+#          overwrite: true
           path: ./public
 
   # Deploy website to GitHub Pages hosting

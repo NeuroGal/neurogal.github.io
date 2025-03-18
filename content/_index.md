@@ -90,10 +90,10 @@ sections:
         longitude: '-73.959964'   
       contact_links:
         - icon: bluesky
-          icon_pack: fas
+          icon_pack: fab
           name: DM on bluesky
           link: 'https://bsky.app/profile/neurogal.bsky.social'
-        - icon: x-twitter
+        - icon: twitter
           icon_pack: fab
           name: DM on x\twitter
           link: 'https://twitter.com/neuro_gal'
