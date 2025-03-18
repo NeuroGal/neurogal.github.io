@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher (Computational Neuroscience \ Data Science) #Computational Neuroscience Graduate Student
+role: Postdoctoral Researcher (Computational Neuroscience, Data Science) #Computational Neuroscience Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -60,12 +60,12 @@ social: # add more when relevant!
       header: true
   - icon: bluesky
     icon_pack: fab
-    link: 'https://bsky.app/profile/neurogal.bsky.social'
-    label: Follow me on Bluesky
+    link: https://bsky.app/profile/neurogal.bsky.social
+    label: Bluesky
   - icon: x-twitter
     icon_pack: fab
-    link: https://twitter.com/neuro_gal
-    label: Follow me on X\Twitter
+    link: https://x.com/neuro_gal #https://twitter.com/neuro_gal
+    label: x-twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
