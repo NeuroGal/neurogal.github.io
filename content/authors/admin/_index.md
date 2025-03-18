@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Computational Neuroscience Graduate Student
+role: Postdoctoral Researcher (Computational Neuroscience \ Data Science) #Computational Neuroscience Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Edmond and Lily Safra Center for Brain Sciences (ELSC)
-    url: https://elsc.huji.ac.il/
+  - name: Columbia University Data Science Institute #Edmond and Lily Safra Center for Brain Sciences (ELSC)
+    url: https://datascience.columbia.edu/people/gal-vishne/ #https://elsc.huji.ac.il/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Aspiring Cognitive Computational Neuroscientist.
@@ -42,7 +42,7 @@ education:
   courses:
     - course: PhD in Computational Neuroscience
       institution: Hebrew University of Jerusalem (ELSC)
-      year: (expected) 2024
+      year: 2025
     - course: BSc in Mathematics
       institution: Bar-Ilan University
       year: 2011
