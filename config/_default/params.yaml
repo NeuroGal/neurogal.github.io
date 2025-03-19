@@ -114,3 +114,6 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+icons:
+  throw_on_error: true
