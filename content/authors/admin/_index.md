@@ -61,7 +61,7 @@ social: # add more when relevant!
     label: Email me
     display:
       header: true
-  - icon: x-twitter #bluesky
+  - icon: bluesky  # not in the current version it seems...
     icon_pack: fab
     link: https://bsky.app/profile/neurogal.bsky.social
     label: Bluesky

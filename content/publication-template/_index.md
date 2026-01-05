@@ -1,5 +1,6 @@
 ---
 title: Publications
+subtitle: (see google scholar for full list)
 cms_exclude: true
 
 # View.
