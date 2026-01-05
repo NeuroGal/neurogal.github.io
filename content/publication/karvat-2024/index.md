@@ -7,12 +7,13 @@ authors:
 - Michael C Anderson
 - Ayelet N. Landau
 author_notes:
-  - ''
-  - ''
-  - ''
-  - 'Equal contribution'
-  - 'Equal contribution'
+- null
+- null
+- null
+- 'Equal contribution'
+- 'Equal contribution'
 date: '2024-06-12'
+publishDate: ''
 publication_types: ["article"]
 publication: '*BioRxiv*'
 doi: 10.1101/2024.12.05.627113

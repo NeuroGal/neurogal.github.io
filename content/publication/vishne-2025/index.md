@@ -5,10 +5,11 @@ authors:
 - Leon Y. Deouell
 - Ayelet N. Landau
 author_notes:
-  - ''
-  - 'Equal contribution'
-  - 'Equal contribution'
+- null
+- 'Equal contribution'
+- 'Equal contribution'
 date: '2025-30-03'
+publishDate: ''
 publication_types: ["article"]
 publication: '*BioRxiv*'
 doi: 10.1101/2025.03.28.646008
