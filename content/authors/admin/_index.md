@@ -93,7 +93,7 @@ highlight_name: true
 
 I am a **Cognitive Computational Neuroscientist**.
 
-I am currently a postdoctoral fellow at the [Data Science Institute](https://datascience.columbia.edu/) and the [Zuckerman Brain Mind Behavior Institute](https://zuckermaninstitute.columbia.edu/) at Columbia University, mentored by Prof. Michael Shadlen and Prof. Rich Zemel. Prior to this, I was a PhD student for Computational Neuroscience at the [Edmond and Lily Safra Center for Brain Sciences (ELSC)](https://elsc.huji.ac.il/) at the Hebrew University of Jerusalem (graduated 2025). And prior to that, I completed a BSc in Abstract Mathematics (see CV [here](uploads/resume.pdf)).
+I am currently a postdoctoral fellow at the [Data Science Institute](https://datascience.columbia.edu/) and the [Zuckerman Brain Mind Behavior Institute](https://zuckermaninstitute.columbia.edu/) at Columbia University, mentored by Prof. Michael Shadlen and Prof. Rich Zemel. Prior to this, I was a PhD student for Computational Neuroscience at the [Edmond and Lily Safra Center for Brain Sciences (ELSC)](https://elsc.huji.ac.il/) at the Hebrew University of Jerusalem. And prior to that, I completed a BSc in Abstract Mathematics (see CV [here](uploads/resume.pdf)).
 
 Broadly, I am interested in how cognitive functions emerge from neural dynamics, and in the computational principles that link perception, decision-making, and subjective experience. My research utilizes computational modeling of behavior and large-scale neural recordings, including EEG and intracranial recordings from humans, and more recently, neural recordings from non-human primates.
 
