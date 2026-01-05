@@ -20,9 +20,14 @@ sections:
     content:
       title: Recent Activity
       text:  |+
-        + Jan 2025: Started as a postdoctoral fellow 
+        + Sept 2025: Travel to Porto for ICON 2025 (International Conference on Cognitive Neuroscience)
+        + July 2025: Virtual talk at Neurodynamics of Visual Cognition Lab (Prof. Radoslaw Martin Cichy), Freie Universität of Berlin
+        + March-April 2025: Travel to CNS conference + giving talks at Rachel Denison's lab @ Boston University and Jorge Morales' lab @ Northeastern University
+        + Jan 2025: Started as a postdoctoral fellow in the [Columbia Data Science Institute](https://datascience.columbia.edu/people/gal-vishne/) 
         + Dec 2024: Moved to the US! ✈️🌎 
-        + Sep 2024: Selected as a postdoctoral scholar in the [Zuckerman STEM Postdoctoral Leadership Program](https://zuckermanstem.org/scholars/dr-gal-vishne/) 🏆
+        + Sep 2024:
+            + Selected as a postdoctoral scholar for the [Zuckerman STEM Postdoctoral Leadership Program](https://zuckermanstem.org/scholars/dr-gal-vishne/) 🏆
+            + Poster presentation at Ernst Strüngmann Institute Systems Neuroscience Conference in Frankfurt. 
         + July 2024: Awarded a Postdoctoral Fellowship from the Israeli Council for Higher Education 😀
         + Feb 2024: Awarded the [Rothschild Postdoctoral Fellowship](https://www.yadhanadiv.org.il/rothschild-fellows) 🏅
         + Dec 2023: My episode in the [Honest Discussions](https://twitter.com/HonestDiscuss) podcast is out! [Check it out](https://www.youtube.com/watch?v=Tx4t_Ct6g_E&t=1s) 🎧
